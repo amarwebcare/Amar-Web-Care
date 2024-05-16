@@ -431,7 +431,7 @@ body {
   font-size: 18px;
   line-height: 1.667;
   position: relative;
-  overflow-x: hidden;
+  display: hidden;
   color: var(--body-color);
   font-family: var(--body-font);
   -moz-osx-font-smoothing: antialiased;
