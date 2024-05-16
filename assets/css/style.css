@@ -432,6 +432,7 @@ body {
   line-height: 1.667;
   position: relative;
   display: hidden;
+  overflow-x: hidden !important;
   color: var(--body-color);
   font-family: var(--body-font);
   -moz-osx-font-smoothing: antialiased;
@@ -1351,7 +1352,6 @@ select:visited {
   max-width: 50%;
   z-index: 999999;
   overflow: hidden;
-  overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   background-color: #272727;
   -webkit-transition: all 0.5s cubic-bezier(0.9, 0.03, 0, 0.96) 0.6s;
