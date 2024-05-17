@@ -2,6 +2,14 @@
   overflow-x: hidden !important;
 }
 
+.bi-why-choose-us-section-4 {
+  overflow-y: hidden;
+}
+
+.bi-why-choose-us-area-3 {
+  overflow: hidden !important;
+}
+
 .bi-why-choose-us-area-1 {
   overflow: hidden;
 }
