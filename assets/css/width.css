@@ -2,6 +2,10 @@
   overflow-x: hidden !important;
 }
 
+.bi-why-choose-us-area-1 {
+  overflow: hidden;
+}
+
 .bi-about-content-4 {
   overflow: hidden;
 }
