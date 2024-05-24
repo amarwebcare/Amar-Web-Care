@@ -33,4 +33,12 @@
     max-height: 400px;
     max-width: 400px;
   }
+  #bi-contact-form {
+    margin: 0;
+  }
+
+  .bi-section-title-1,
+  .teamAnswer {
+    padding: 0;
+  }
 }
