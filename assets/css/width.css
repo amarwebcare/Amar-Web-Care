@@ -16,7 +16,18 @@
 
 .bi-about-content-4 {
   overflow: hidden;
+  text-align: center;
 }
+
+#bi-contact-form {
+  margin: 40px;
+}
+
+.bi-section-title-1,
+.teamAnswer {
+  padding-left: 20px;
+}
+
 @media (max-width: 480px) {
   .service-img {
     max-height: 400px;
