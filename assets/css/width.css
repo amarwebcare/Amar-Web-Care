@@ -6,7 +6,15 @@
   overflow-y: hidden;
 }
 
-.bi-why-choose-us-area-3 {
+.bi-about-content {
+  overflow: hidden !important;
+}
+
+.bi-fun-fact-section {
+  overflow: hidden !important;
+}
+
+.bi-section-title-1 .text-center .headline .pera-content {
   overflow: hidden !important;
 }
 
